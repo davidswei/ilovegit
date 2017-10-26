@@ -18,5 +18,7 @@
 
 我喜欢git，我是来自四川省振中学院的测试用户。
 
-我喜欢git，我是来自长春理工大学的苏伟"This is branch" 
-"This is branch" 
+我喜欢git，我也喜欢Github，我是来自长春理工大学的苏伟
+
+
+
